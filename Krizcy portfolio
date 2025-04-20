@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Krizcy | Freelance Writer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Krizcy</h1>
+    <p>Freelance Writer | Blog Writing • Copywriting • Content Creation</p>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#samples">Work Samples</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm Krizcy, a freelance writer who loves transforming ideas into powerful words. I write blog articles, website copy, and content that connects with readers and drives results.</p>
+  </section>
+
+  <section id="samples">
+    <h2>Writing Samples</h2>
+
+    <div class="sample">
+      <h3>Blog Article: Embracing Slow Living</h3>
+      <p><a href="sample1.pdf" target="_blank">View PDF</a></p>
+    </div>
+
+    <div class="sample">
+      <h3>Web Copy: GreenEarth Homepage</h3>
+      <p><a href="sample2.pdf" target="_blank">View PDF</a></p>
+    </div>
+
+    <div class="sample">
+      <h3>Social Media: Café Bloom Captions</h3>
+      <p><a href="sample3.jpg" target="_blank">View Image</a></p>
+    </div>
+
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: krizcy@example.com</p>
+    <p>Facebook: <a href="https://facebook.com/krizcy" target="_blank">facebook.com/krizcy</a></p>
+    <p>I’m available for writing projects, collaborations, and content creation gigs!</p>
+  </section>
+</body>
+</html>
